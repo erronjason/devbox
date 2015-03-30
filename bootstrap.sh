@@ -15,7 +15,10 @@ apt-get -y install python34 python-pip
 
 pip install virtualenvwrapper
 
-cat >> /home/vagrant/
+cat >> /home/vagrant/ < EOF
+vew stuff here
+EOF
+
 
 # Install a gui. This can be replaced by whatever you prefer
 apt-get -y install --no-install-recommends lubuntu-desktop

@@ -1,0 +1,8 @@
+logrotate state -- version 2
+"/home/vagrant/.cache/upstart/ssh-agent.log" 2015-3-30-4:0:0
+"/home/vagrant/.cache/upstart/dbus.log" 2015-3-30-4:0:0
+"/home/vagrant/.cache/upstart/gnome-keyring-gpg.log" 2015-3-30-4:0:0
+"/home/vagrant/.cache/upstart/update-notifier-release.log" 2015-3-30-4:0:0
+"/home/vagrant/.cache/upstart/lxsession.log" 2015-3-30-4:0:0
+"/home/vagrant/.cache/upstart/im-config.log" 2015-3-30-4:0:0
+"/home/vagrant/.cache/upstart/gnome-keyring-ssh.log" 2015-3-30-4:0:0
